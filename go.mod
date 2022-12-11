@@ -1,4 +1,4 @@
-module proto-factories
+module github.com/kareem-dutchgame-studio/proto-factories
 
 go 1.18
 
